@@ -3,7 +3,7 @@
   "theme": "mint",
   "name": "Documentation",
   "colors": {
-    "primary": "#2FAF8E",
+    "primary": "#F97316",
     "light": "#F97316",
     "dark": "#0B0F0E"
   },
@@ -24,5 +24,8 @@
   "fonts": {
     "family": "Inter",
     "weight": 600
+  },
+  "appearance": {
+    "strict": true
   }
 }
