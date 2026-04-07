@@ -18,7 +18,8 @@
   "logo": "/images/dark.png",
   "background": {
     "color": {
-      "light": "#0B0F0E"
+      "light": "#d8dedc",
+      "dark": "#bbbbbb"
     }
   },
   "fonts": {
