@@ -1,0 +1,28 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "theme": "mint",
+  "name": "Documentation",
+  "colors": {
+    "primary": "#2FAF8E",
+    "light": "#F97316",
+    "dark": "#0B0F0E"
+  },
+  "navigation": {
+    "groups": [
+      {
+        "group": "Getting Started",
+        "pages": []
+      }
+    ]
+  },
+  "logo": "/images/dark.png",
+  "background": {
+    "color": {
+      "light": "#0B0F0E"
+    }
+  },
+  "fonts": {
+    "family": "Inter",
+    "weight": 600
+  }
+}
